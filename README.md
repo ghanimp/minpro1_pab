@@ -59,6 +59,8 @@ Dialog
 - AlertDialog
 - TextButton
 
+
+## Tampilan Applikasi
 <img width="731" height="915" alt="image" src="https://github.com/user-attachments/assets/23a51e42-6125-40a4-99eb-d9261a64b186" />
 
 
