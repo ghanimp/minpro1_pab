@@ -12,17 +12,23 @@ Data yang dikelola meliputi:
 * Jam bermain
 * Nomor HP
 
-hy
-<img width="1535" height="917" alt="image" src="https://github.com/user-attachments/assets/b0a64911-83c1-4fdf-a999-307cddb79956" />
+
+<img width="731" height="915" alt="image" src="https://github.com/user-attachments/assets/23a51e42-6125-40a4-99eb-d9261a64b186" />
 
 
-<img width="1534" height="912" alt="image" src="https://github.com/user-attachments/assets/0aca810f-a948-4580-8d5a-c61aad2869c8" />
+<img width="723" height="942" alt="image" src="https://github.com/user-attachments/assets/0d42b58c-c809-4620-8b78-43803922a652" />
 
 
-<img width="1535" height="922" alt="image" src="https://github.com/user-attachments/assets/1b01ced8-7641-4519-ae1c-15b0317f735e" />
+<img width="725" height="947" alt="image" src="https://github.com/user-attachments/assets/ce10c928-bb58-4e61-a3bc-2f82913e5843" />
 
 
-<img width="1534" height="918" alt="image" src="https://github.com/user-attachments/assets/2e5ee16a-f52e-4939-83c8-5afb4a1c0611" />
+<img width="727" height="947" alt="image" src="https://github.com/user-attachments/assets/42815902-2bb6-407f-93db-a4514dac8c14" />
 
 
-<img width="1538" height="911" alt="image" src="https://github.com/user-attachments/assets/3ed404a1-f386-4d38-a50e-69f9c9f1af28" />
+<img width="734" height="953" alt="image" src="https://github.com/user-attachments/assets/e8283332-5ace-4d1a-9f74-3da8f16f1044" />
+
+
+<img width="734" height="946" alt="image" src="https://github.com/user-attachments/assets/4f427d57-8877-4604-bcc6-09d2d75643b3" />
+
+
+<img width="740" height="949" alt="image" src="https://github.com/user-attachments/assets/6c2d7d31-eb7c-4e23-9c50-5be5cb6c5685" />
