@@ -2,8 +2,11 @@
 
 ## Deskripsi Aplikasi
 
-Futsal Arena adalah aplikasi mobile berbasis Flutter yang digunakan untuk mencatat dan mengelola data booking lapangan futsal. Aplikasi ini memungkinkan admin untuk melakukan proses CRUD (Create, Read, Update, Delete) terhadap data booking secara sederhana tanpa menggunakan database.
+Futsal Arena merupakan aplikasi mobile berbasis Flutter yang dirancang untuk membantu proses pencatatan dan pengelolaan booking lapangan futsal secara digital. Aplikasi ini dibuat sebagai implementasi pembelajaran konsep dasar pemrograman mobile, khususnya dalam penerapan StatefulWidget, navigasi antar halaman, serta operasi CRUD (Create, Read, Update, Delete).
 
+Secara umum, aplikasi ini berfungsi sebagai sistem pencatatan sederhana yang memungkinkan pengguna (admin) untuk menambahkan data penyewaan lapangan, melihat daftar booking yang telah dibuat, melakukan perubahan data apabila terjadi kesalahan, serta menghapus data dengan sistem konfirmasi.
+
+Dalam penggunaannya, aplikasi ini tidak menggunakan database eksternal, melainkan memanfaatkan struktur data List<Map<String, String>> sebagai penyimpanan sementara (in-memory). Hal ini bertujuan untuk fokus pada pemahaman logika pemrograman dan manajemen state dalam Flutter.
 Data yang dikelola meliputi:
 * Nama penyewa
 * Lapangan
